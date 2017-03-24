@@ -83,4 +83,3 @@ target/
 .ipynb_checkpoints
 .idea/
 .DS_Store
-.env
